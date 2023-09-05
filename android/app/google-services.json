@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "123287430233",
+    "firebase_url": "https://findboarding-378601-default-rtdb.firebaseio.com",
+    "project_id": "findboarding-378601",
+    "storage_bucket": "findboarding-378601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123287430233:android:90f39139660cb101ad7d48",
+        "android_client_info": {
+          "package_name": "com.example.ttt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123287430233-57c2ecbb60pgo7nr7t61i1rvntd8nbjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ttt",
+            "certificate_hash": "9e80c8a9b5b176265a8881a9c723f3c0e453d58d"
+          }
+        },
+        {
+          "client_id": "123287430233-smlhb2tkq0nfd1lqptstdm2ngv8kcu6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAewjZYI9VvOCagHdC5_Ia3E_XsoF9ElJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123287430233-adeg6c2pb3jpi1ripb3usdt0i7ilmd54.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "123287430233-sbhprqtgkrakoolsl914afk677m2q1tm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ttt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
